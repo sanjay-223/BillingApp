@@ -1,8 +1,13 @@
 # Billing System Application
 
+By
+    SANJAY S,
+    B.Tech IT,
+    Government College of Technology, Coimbatore
+
 ## To run the program
 
-1. Run the `Data.sql` file in MySQL Workbench to set up the database.
+1. Run the `Data .sql` file in MySQL Workbench to set up the database.
 2. Put your MySQL Username and Password in the `db.properties` file.
 3. Open Terminal in the project root folder.
 
